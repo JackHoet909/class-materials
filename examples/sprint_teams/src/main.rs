@@ -1,3 +1,4 @@
+// TODO: RTO-4
 use rand::Rng;
 
 struct SprintTeam {
@@ -12,6 +13,7 @@ fn main() {
         "Nick Clarkson",
         "Sam Ethan Fortin",
         "Jack Allen Frambes",
+        "Jimmy Jack",
         "Evan Thomas Gunnulfsen",
         "Jack Robert Hoeting",
         "Julia Lacy Hootman",
